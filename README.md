@@ -1,1 +1,2 @@
 This is a website designed for a Codecademy exercsie by Imani Adapoe. This business is not real. I have gained more insight for CSS Flexbox and Responsive web design throguh this exercise.  
+This project took waaay longer than expected (3 days), but I am grateful that I got the oppurtunity to go from lo-fi wirframe to live website (with all of my font tweaks and color selections) to get it to be perfect!
